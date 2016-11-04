@@ -1,3 +1,8 @@
+// create a box for user name, email, and password with a submit button. wecome user and prompt to enter login info
+// Check to see if the password is 12345678 and if the username has a number. If email doesn't have number or the 
+// the password is incorrect alert the user. 
+
+
 document.getElementById("submit").addEventListener('click', star);
 
   function star(){

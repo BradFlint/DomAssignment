@@ -1,3 +1,5 @@
+// make 2 buttons that when clicked argue about who is right 
+
 document.getElementById("button1").addEventListener('click', function(){
     document.getElementById('words').innerHTML= "I am right";
 });
